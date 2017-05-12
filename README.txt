@@ -19,6 +19,7 @@ Official Translators:
 - Sebasbongers
 - FabianReinshagen
 - ILxCAPO
+- MagicalFlyingHat
 - Ser-Geeves (inactive)
 - ConfusedWings (inactive)
 
